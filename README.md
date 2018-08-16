@@ -1,2 +1,2 @@
-# codeacademy0
+# simple website
 bear website
